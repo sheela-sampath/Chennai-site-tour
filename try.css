@@ -1,0 +1,33 @@
+
+    
+       body{
+
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+        
+       
+        
+        h1,p{
+            display: inline-block;
+        background-color: rgb(154, 240, 154);
+        }
+       }
+      
+     
+       .head{
+       
+        background-image: url("pic/tem.jpg");
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 1000px;
+        height: 1100px;
+       
+        
+    }
+        
+       
+ 
+    

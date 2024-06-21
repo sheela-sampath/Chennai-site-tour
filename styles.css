@@ -1,0 +1,126 @@
+body{
+    margin: 30px;
+    text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+         h3{
+    font-style: bold;
+    text-decoration: underline;
+    color: rgb(161, 23, 11);
+         }
+         img{
+            border-radius: 30px;
+        }
+    }
+   .head{
+    h1{
+        color: white;
+        display: inline-block;
+    background-color: rgb(43, 31, 78);
+    }
+      
+    p{
+        color: white;
+        font-size: large;
+        display: inline-block;
+    background-color: rgb(120, 98, 209);
+    margin: 10px 150px 10px 150px;
+    padding: 10px;
+   
+
+    }
+    background-image: url("pic/tem.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1000px;
+    height: 500px;
+     }
+   
+.beach
+{           
+    padding: 30px;
+    border-color: #020000;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 190px;
+    height: 350px;
+    margin-top: 10px;
+
+    ;
+
+    
+    
+    
+}
+.maha
+{
+    padding: 30px;
+    border-color: #020000;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 190px;
+    height: 350px;
+    margin-right: px;
+    margin-top: 10px;
+
+   
+}
+.museum
+{
+    padding: 30px 28px 28px 29px;
+    border-color: #020000;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 190px;
+    
+}
+.beach:hover
+{
+    background-color: rgb(161, 230, 232);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.maha:hover
+{
+    background-color: rgb(161, 230, 232);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.museum:hover
+{
+    background-color: rgb(161, 230, 232);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.foot
+{
+   
+    margin-top: 50px;
+  
+    background: #f3d2d8;
+border: 2px solid rgb(9, 9, 9);
+border-radius: 25px;
+border-top: 40px;
+border-bottom: 10px solid #590d22;
+ display: inline-flex;
+width: 500px;
+}
+.avatar
+{
+   
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.foot:hover
+{
+    background-color: rgb(161, 230, 232);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
